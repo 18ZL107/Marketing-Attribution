@@ -1,0 +1,1001 @@
+CustomerID,Age,City,Province,Gender,BusinessSize,BusinessSector
+C0001,60.0,London,Ontario,Male,Medium,Retail
+C0002,28.0,St. John's,Newfoundland and Labrador,Female,Small,Technology
+C0003,57.0,Edmonton,Alberta,Male,Small,Technology
+C0004,,Toronto,Ontario,,,
+C0005,42.0,Saskatoon,Saskatchewan,Male,Medium,Retail
+C0006,30.0,Charlottetown,Prince Edward Island,Male,Large,Technology
+C0007,,Kitchener,Ontario,,,
+C0008,30.0,Ottawa,Ontario,Female,Medium,Healthcare
+C0009,30.0,Charlottetown,Prince Edward Island,Female,Medium,Finance
+C0010,28.0,Quebec City,Quebec,Female,Small,Manufacturing
+C0011,55.0,Ottawa,Ontario,Female,Large,Retail
+C0012,,Saskatoon,Saskatchewan,,,
+C0013,52.0,Whitehorse,Yukon,Female,Large,Manufacturing
+C0014,,St. John's,Newfoundland and Labrador,,,
+C0015,29.0,Toronto,Ontario,Male,Medium,Manufacturing
+C0016,57.0,Vancouver,British Columbia,Male,Small,Manufacturing
+C0017,,Quebec City,Quebec,,,
+C0018,,Whitehorse,Yukon,,,
+C0019,54.0,London,Ontario,Male,Large,Technology
+C0020,27.0,Hamilton,Ontario,Female,Small,Retail
+C0021,,Fredericton,New Brunswick,,,
+C0022,,Fredericton,New Brunswick,,,
+C0023,57.0,Calgary,Alberta,Male,Large,Technology
+C0024,40.0,Charlottetown,Prince Edward Island,Female,Small,Technology
+C0025,,Charlottetown,Prince Edward Island,,,
+C0026,31.0,Regina,Saskatchewan,Female,Large,Finance
+C0027,,Regina,Saskatchewan,,,
+C0028,31.0,Regina,Saskatchewan,Male,Large,Manufacturing
+C0029,,Yellowknife,Northwest Territories,,,
+C0030,28.0,Charlottetown,Prince Edward Island,Female,Medium,Technology
+C0031,66.0,Regina,Saskatchewan,Male,Small,Finance
+C0032,,Winnipeg,Manitoba,,,
+C0033,49.0,Charlottetown,Prince Edward Island,Male,Large,Finance
+C0034,69.0,Toronto,Ontario,Male,Large,Retail
+C0035,,Kitchener,Ontario,,,
+C0036,,Halifax,Nova Scotia,,,
+C0037,56.0,London,Ontario,Female,Medium,Technology
+C0038,29.0,Charlottetown,Prince Edward Island,Male,Medium,Healthcare
+C0039,27.0,Whitehorse,Yukon,Male,Large,Retail
+C0040,30.0,Montreal,Quebec,Female,Large,Finance
+C0041,30.0,Kitchener,Ontario,Male,Large,Healthcare
+C0042,,Winnipeg,Manitoba,,,
+C0043,35.0,Regina,Saskatchewan,Male,Medium,Retail
+C0044,28.0,Hamilton,Ontario,Male,Medium,Retail
+C0045,,Edmonton,Alberta,,,
+C0046,28.0,Saskatoon,Saskatchewan,Female,Small,Manufacturing
+C0047,27.0,Toronto,Ontario,Female,Medium,Healthcare
+C0048,60.0,Kitchener,Ontario,Male,Medium,Manufacturing
+C0049,,Yellowknife,Northwest Territories,,,
+C0050,,Saskatoon,Saskatchewan,,,
+C0051,,St. John's,Newfoundland and Labrador,,,
+C0052,28.0,Vancouver,British Columbia,Male,Large,Technology
+C0053,31.0,Calgary,Alberta,Male,Medium,Finance
+C0054,33.0,Edmonton,Alberta,Female,Large,Retail
+C0055,,Quebec City,Quebec,,,
+C0056,,Calgary,Alberta,,,
+C0057,,Whitehorse,Yukon,,,
+C0058,49.0,Ottawa,Ontario,Male,Small,Technology
+C0059,62.0,Montreal,Quebec,Male,Large,Finance
+C0060,26.0,Edmonton,Alberta,Female,Small,Technology
+C0061,,Kitchener,Ontario,,,
+C0062,60.0,Regina,Saskatchewan,Female,Large,Retail
+C0063,,Whitehorse,Yukon,,,
+C0064,59.0,London,Ontario,Female,Medium,Retail
+C0065,36.0,Calgary,Alberta,Female,Large,Healthcare
+C0066,43.0,Regina,Saskatchewan,Female,Large,Retail
+C0067,,Yellowknife,Northwest Territories,,,
+C0068,42.0,Charlottetown,Prince Edward Island,Male,Large,Finance
+C0069,33.0,Fredericton,New Brunswick,Male,Large,Technology
+C0070,58.0,Saskatoon,Saskatchewan,Male,Large,Finance
+C0071,31.0,Toronto,Ontario,Female,Medium,Finance
+C0072,66.0,Ottawa,Ontario,Male,Large,Manufacturing
+C0073,,London,Ontario,,,
+C0074,69.0,Charlottetown,Prince Edward Island,Female,Small,Retail
+C0075,58.0,Regina,Saskatchewan,Female,Medium,Manufacturing
+C0076,,Toronto,Ontario,,,
+C0077,,Winnipeg,Manitoba,,,
+C0078,68.0,Hamilton,Ontario,Female,Medium,Finance
+C0079,,Montreal,Quebec,,,
+C0080,,Quebec City,Quebec,,,
+C0081,50.0,Saskatoon,Saskatchewan,Female,Medium,Retail
+C0082,37.0,St. John's,Newfoundland and Labrador,Male,Large,Manufacturing
+C0083,,London,Ontario,,,
+C0084,61.0,Victoria,British Columbia,Male,Small,Finance
+C0085,,Vancouver,British Columbia,,,
+C0086,28.0,Victoria,British Columbia,Female,Large,Healthcare
+C0087,,Charlottetown,Prince Edward Island,,,
+C0088,,Winnipeg,Manitoba,,,
+C0089,28.0,Vancouver,British Columbia,Female,Large,Retail
+C0090,34.0,Fredericton,New Brunswick,Female,Medium,Healthcare
+C0091,,Edmonton,Alberta,,,
+C0092,38.0,Fredericton,New Brunswick,Female,Large,Retail
+C0093,,Saskatoon,Saskatchewan,,,
+C0094,57.0,Victoria,British Columbia,Male,Medium,Finance
+C0095,,Montreal,Quebec,,,
+C0096,45.0,Saskatoon,Saskatchewan,Male,Small,Manufacturing
+C0097,27.0,Fredericton,New Brunswick,Female,Small,Technology
+C0098,,Toronto,Ontario,,,
+C0099,,Fredericton,New Brunswick,,,
+C0100,45.0,Ottawa,Ontario,Female,Large,Retail
+C0101,51.0,Calgary,Alberta,Male,Small,Retail
+C0102,,Charlottetown,Prince Edward Island,,,
+C0103,33.0,Winnipeg,Manitoba,Female,Small,Retail
+C0104,27.0,Ottawa,Ontario,Male,Medium,Technology
+C0105,,Hamilton,Ontario,,,
+C0106,,Calgary,Alberta,,,
+C0107,,Saskatoon,Saskatchewan,,,
+C0108,28.0,Yellowknife,Northwest Territories,Male,Medium,Finance
+C0109,32.0,Edmonton,Alberta,Male,Medium,Healthcare
+C0110,,Edmonton,Alberta,,,
+C0111,54.0,Regina,Saskatchewan,Female,Small,Manufacturing
+C0112,52.0,Saskatoon,Saskatchewan,Male,Large,Healthcare
+C0113,,Charlottetown,Prince Edward Island,,,
+C0114,,Calgary,Alberta,,,
+C0115,61.0,Vancouver,British Columbia,Male,Large,Technology
+C0116,60.0,Yellowknife,Northwest Territories,Male,Medium,Technology
+C0117,,Vancouver,British Columbia,,,
+C0118,,Vancouver,British Columbia,,,
+C0119,60.0,Regina,Saskatchewan,Female,Medium,Technology
+C0120,,Halifax,Nova Scotia,,,
+C0121,32.0,Charlottetown,Prince Edward Island,Female,Medium,Retail
+C0122,,Fredericton,New Brunswick,,,
+C0123,,Charlottetown,Prince Edward Island,,,
+C0124,,Regina,Saskatchewan,,,
+C0125,,Hamilton,Ontario,,,
+C0126,,Victoria,British Columbia,,,
+C0127,,Calgary,Alberta,,,
+C0128,38.0,Quebec City,Quebec,Female,Medium,Healthcare
+C0129,60.0,Victoria,British Columbia,Male,Small,Healthcare
+C0130,68.0,Whitehorse,Yukon,Male,Large,Retail
+C0131,52.0,Kitchener,Ontario,Female,Small,Manufacturing
+C0132,,Yellowknife,Northwest Territories,,,
+C0133,50.0,Victoria,British Columbia,Female,Large,Technology
+C0134,,Montreal,Quebec,,,
+C0135,30.0,Charlottetown,Prince Edward Island,Male,Large,Finance
+C0136,,Fredericton,New Brunswick,,,
+C0137,53.0,Yellowknife,Northwest Territories,Male,Large,Finance
+C0138,48.0,Saskatoon,Saskatchewan,Female,Small,Finance
+C0139,47.0,Toronto,Ontario,Female,Medium,Finance
+C0140,59.0,Quebec City,Quebec,Female,Medium,Manufacturing
+C0141,67.0,Quebec City,Quebec,Male,Large,Technology
+C0142,28.0,Quebec City,Quebec,Male,Medium,Technology
+C0143,43.0,Toronto,Ontario,Male,Small,Manufacturing
+C0144,,Victoria,British Columbia,,,
+C0145,60.0,Victoria,British Columbia,Male,Large,Finance
+C0146,,Yellowknife,Northwest Territories,,,
+C0147,38.0,Winnipeg,Manitoba,Female,Large,Healthcare
+C0148,36.0,Ottawa,Ontario,Female,Medium,Retail
+C0149,,Quebec City,Quebec,,,
+C0150,,Kitchener,Ontario,,,
+C0151,25.0,Hamilton,Ontario,Male,Large,Technology
+C0152,,Whitehorse,Yukon,,,
+C0153,66.0,Montreal,Quebec,Male,Large,Retail
+C0154,56.0,Vancouver,British Columbia,Male,Small,Retail
+C0155,47.0,London,Ontario,Female,Large,Healthcare
+C0156,,Calgary,Alberta,,,
+C0157,26.0,Regina,Saskatchewan,Female,Small,Technology
+C0158,45.0,Halifax,Nova Scotia,Female,Medium,Finance
+C0159,41.0,Fredericton,New Brunswick,Female,Medium,Healthcare
+C0160,,Montreal,Quebec,,,
+C0161,50.0,Quebec City,Quebec,Female,Medium,Technology
+C0162,,Saskatoon,Saskatchewan,,,
+C0163,,Victoria,British Columbia,,,
+C0164,52.0,Montreal,Quebec,Male,Medium,Manufacturing
+C0165,29.0,Calgary,Alberta,Female,Large,Healthcare
+C0166,,Halifax,Nova Scotia,,,
+C0167,44.0,Calgary,Alberta,Male,Large,Healthcare
+C0168,39.0,Hamilton,Ontario,Female,Small,Manufacturing
+C0169,31.0,Vancouver,British Columbia,Female,Medium,Manufacturing
+C0170,34.0,Saskatoon,Saskatchewan,Female,Small,Manufacturing
+C0171,,Halifax,Nova Scotia,,,
+C0172,39.0,Vancouver,British Columbia,Female,Medium,Retail
+C0173,,Fredericton,New Brunswick,,,
+C0174,35.0,Ottawa,Ontario,Female,Medium,Retail
+C0175,,Toronto,Ontario,,,
+C0176,,Edmonton,Alberta,,,
+C0177,33.0,Quebec City,Quebec,Female,Large,Manufacturing
+C0178,,Victoria,British Columbia,,,
+C0179,64.0,Hamilton,Ontario,Male,Small,Manufacturing
+C0180,50.0,St. John's,Newfoundland and Labrador,Male,Large,Manufacturing
+C0181,,Kitchener,Ontario,,,
+C0182,33.0,Kitchener,Ontario,Male,Small,Technology
+C0183,,Ottawa,Ontario,,,
+C0184,41.0,Regina,Saskatchewan,Male,Medium,Technology
+C0185,,St. John's,Newfoundland and Labrador,,,
+C0186,49.0,Yellowknife,Northwest Territories,Male,Medium,Retail
+C0187,27.0,Halifax,Nova Scotia,Female,Medium,Technology
+C0188,33.0,Kitchener,Ontario,Female,Large,Technology
+C0189,31.0,Charlottetown,Prince Edward Island,Male,Large,Healthcare
+C0190,44.0,Toronto,Ontario,Male,Medium,Retail
+C0191,,Vancouver,British Columbia,,,
+C0192,42.0,Quebec City,Quebec,Female,Medium,Manufacturing
+C0193,26.0,Winnipeg,Manitoba,Female,Large,Retail
+C0194,,Ottawa,Ontario,,,
+C0195,55.0,Montreal,Quebec,Female,Small,Finance
+C0196,51.0,Toronto,Ontario,Female,Large,Retail
+C0197,61.0,Saskatoon,Saskatchewan,Male,Large,Retail
+C0198,,Calgary,Alberta,,,
+C0199,46.0,Ottawa,Ontario,Male,Small,Healthcare
+C0200,,Quebec City,Quebec,,,
+C0201,31.0,Regina,Saskatchewan,Female,Small,Manufacturing
+C0202,34.0,Quebec City,Quebec,Female,Medium,Technology
+C0203,,Kitchener,Ontario,,,
+C0204,43.0,Calgary,Alberta,Male,Small,Finance
+C0205,66.0,London,Ontario,Male,Small,Manufacturing
+C0206,38.0,Montreal,Quebec,Female,Medium,Retail
+C0207,,St. John's,Newfoundland and Labrador,,,
+C0208,50.0,Whitehorse,Yukon,Female,Large,Technology
+C0209,,St. John's,Newfoundland and Labrador,,,
+C0210,66.0,Yellowknife,Northwest Territories,Male,Large,Finance
+C0211,,Ottawa,Ontario,,,
+C0212,61.0,London,Ontario,Female,Small,Manufacturing
+C0213,,Ottawa,Ontario,,,
+C0214,37.0,Victoria,British Columbia,Female,Large,Retail
+C0215,,Quebec City,Quebec,,,
+C0216,,Toronto,Ontario,,,
+C0217,31.0,Whitehorse,Yukon,Male,Medium,Finance
+C0218,54.0,Yellowknife,Northwest Territories,Male,Small,Finance
+C0219,40.0,Saskatoon,Saskatchewan,Female,Large,Technology
+C0220,57.0,Kitchener,Ontario,Male,Small,Retail
+C0221,54.0,Calgary,Alberta,Male,Medium,Retail
+C0222,,Victoria,British Columbia,,,
+C0223,34.0,Quebec City,Quebec,Female,Medium,Manufacturing
+C0224,39.0,Regina,Saskatchewan,Female,Medium,Technology
+C0225,,Victoria,British Columbia,,,
+C0226,61.0,Montreal,Quebec,Male,Small,Retail
+C0227,27.0,Regina,Saskatchewan,Female,Small,Manufacturing
+C0228,34.0,Saskatoon,Saskatchewan,Male,Large,Manufacturing
+C0229,,Winnipeg,Manitoba,,,
+C0230,,Montreal,Quebec,,,
+C0231,,Halifax,Nova Scotia,,,
+C0232,,Regina,Saskatchewan,,,
+C0233,44.0,Saskatoon,Saskatchewan,Female,Small,Technology
+C0234,38.0,Halifax,Nova Scotia,Female,Large,Retail
+C0235,36.0,Halifax,Nova Scotia,Male,Large,Retail
+C0236,,Toronto,Ontario,,,
+C0237,,Toronto,Ontario,,,
+C0238,26.0,Saskatoon,Saskatchewan,Female,Medium,Finance
+C0239,42.0,Ottawa,Ontario,Male,Large,Technology
+C0240,29.0,Halifax,Nova Scotia,Male,Medium,Finance
+C0241,31.0,Vancouver,British Columbia,Female,Small,Finance
+C0242,,Halifax,Nova Scotia,,,
+C0243,41.0,Halifax,Nova Scotia,Male,Large,Healthcare
+C0244,27.0,Edmonton,Alberta,Male,Large,Retail
+C0245,47.0,Calgary,Alberta,Female,Small,Retail
+C0246,30.0,Quebec City,Quebec,Female,Large,Technology
+C0247,,Victoria,British Columbia,,,
+C0248,,St. John's,Newfoundland and Labrador,,,
+C0249,38.0,Victoria,British Columbia,Male,Small,Finance
+C0250,27.0,London,Ontario,Female,Medium,Technology
+C0251,50.0,Quebec City,Quebec,Male,Small,Healthcare
+C0252,,Ottawa,Ontario,,,
+C0253,59.0,Calgary,Alberta,Male,Small,Healthcare
+C0254,,Yellowknife,Northwest Territories,,,
+C0255,,Hamilton,Ontario,,,
+C0256,59.0,Ottawa,Ontario,Male,Large,Retail
+C0257,,Quebec City,Quebec,,,
+C0258,,Kitchener,Ontario,,,
+C0259,56.0,Edmonton,Alberta,Female,Medium,Retail
+C0260,41.0,London,Ontario,Female,Medium,Technology
+C0261,30.0,Ottawa,Ontario,Female,Large,Retail
+C0262,35.0,Winnipeg,Manitoba,Male,Large,Manufacturing
+C0263,,Vancouver,British Columbia,,,
+C0264,,Winnipeg,Manitoba,,,
+C0265,,Whitehorse,Yukon,,,
+C0266,,Winnipeg,Manitoba,,,
+C0267,,Edmonton,Alberta,,,
+C0268,29.0,Kitchener,Ontario,Male,Medium,Finance
+C0269,,Whitehorse,Yukon,,,
+C0270,31.0,St. John's,Newfoundland and Labrador,Female,Large,Finance
+C0271,,Vancouver,British Columbia,,,
+C0272,,London,Ontario,,,
+C0273,,Regina,Saskatchewan,,,
+C0274,,Edmonton,Alberta,,,
+C0275,59.0,Toronto,Ontario,Female,Medium,Technology
+C0276,62.0,Halifax,Nova Scotia,Male,Medium,Manufacturing
+C0277,41.0,Hamilton,Ontario,Male,Small,Healthcare
+C0278,37.0,Ottawa,Ontario,Female,Small,Retail
+C0279,62.0,Fredericton,New Brunswick,Female,Small,Retail
+C0280,39.0,Yellowknife,Northwest Territories,Male,Medium,Healthcare
+C0281,49.0,Fredericton,New Brunswick,Female,Medium,Finance
+C0282,52.0,Charlottetown,Prince Edward Island,Female,Medium,Retail
+C0283,,Vancouver,British Columbia,,,
+C0284,58.0,Halifax,Nova Scotia,Male,Small,Retail
+C0285,29.0,Whitehorse,Yukon,Male,Large,Finance
+C0286,34.0,Edmonton,Alberta,Female,Small,Healthcare
+C0287,,Yellowknife,Northwest Territories,,,
+C0288,40.0,Saskatoon,Saskatchewan,Male,Medium,Retail
+C0289,35.0,Ottawa,Ontario,Female,Small,Retail
+C0290,52.0,Quebec City,Quebec,Male,Small,Manufacturing
+C0291,50.0,Ottawa,Ontario,Female,Small,Retail
+C0292,34.0,Kitchener,Ontario,Male,Small,Manufacturing
+C0293,,St. John's,Newfoundland and Labrador,,,
+C0294,56.0,Calgary,Alberta,Female,Small,Finance
+C0295,29.0,London,Ontario,Male,Medium,Retail
+C0296,,Yellowknife,Northwest Territories,,,
+C0297,,Edmonton,Alberta,,,
+C0298,,Ottawa,Ontario,,,
+C0299,,Winnipeg,Manitoba,,,
+C0300,46.0,Quebec City,Quebec,Female,Small,Healthcare
+C0301,26.0,Winnipeg,Manitoba,Male,Small,Retail
+C0302,44.0,Kitchener,Ontario,Female,Large,Healthcare
+C0303,49.0,Hamilton,Ontario,Female,Small,Finance
+C0304,42.0,Saskatoon,Saskatchewan,Male,Small,Manufacturing
+C0305,68.0,Victoria,British Columbia,Male,Medium,Technology
+C0306,51.0,Halifax,Nova Scotia,Male,Large,Retail
+C0307,,Fredericton,New Brunswick,,,
+C0308,52.0,Halifax,Nova Scotia,Male,Large,Finance
+C0309,63.0,Edmonton,Alberta,Male,Large,Manufacturing
+C0310,52.0,Toronto,Ontario,Male,Medium,Manufacturing
+C0311,40.0,Quebec City,Quebec,Male,Small,Finance
+C0312,45.0,St. John's,Newfoundland and Labrador,Male,Large,Retail
+C0313,,London,Ontario,,,
+C0314,43.0,Ottawa,Ontario,Female,Medium,Retail
+C0315,58.0,Saskatoon,Saskatchewan,Male,Medium,Technology
+C0316,47.0,Quebec City,Quebec,Male,Medium,Finance
+C0317,59.0,Fredericton,New Brunswick,Male,Large,Technology
+C0318,31.0,Charlottetown,Prince Edward Island,Female,Medium,Finance
+C0319,55.0,Toronto,Ontario,Male,Large,Manufacturing
+C0320,,Edmonton,Alberta,,,
+C0321,,Whitehorse,Yukon,,,
+C0322,37.0,Montreal,Quebec,Male,Medium,Manufacturing
+C0323,51.0,London,Ontario,Female,Medium,Finance
+C0324,,St. John's,Newfoundland and Labrador,,,
+C0325,56.0,Quebec City,Quebec,Male,Small,Finance
+C0326,35.0,St. John's,Newfoundland and Labrador,Female,Large,Retail
+C0327,26.0,Montreal,Quebec,Male,Medium,Healthcare
+C0328,55.0,Toronto,Ontario,Male,Small,Finance
+C0329,36.0,Quebec City,Quebec,Female,Small,Retail
+C0330,,Yellowknife,Northwest Territories,,,
+C0331,50.0,Toronto,Ontario,Female,Large,Manufacturing
+C0332,65.0,London,Ontario,Male,Large,Manufacturing
+C0333,58.0,Charlottetown,Prince Edward Island,Male,Large,Manufacturing
+C0334,41.0,Hamilton,Ontario,Female,Medium,Healthcare
+C0335,53.0,Quebec City,Quebec,Male,Small,Retail
+C0336,67.0,Halifax,Nova Scotia,Female,Small,Manufacturing
+C0337,,St. John's,Newfoundland and Labrador,,,
+C0338,66.0,Calgary,Alberta,Female,Medium,Healthcare
+C0339,,Calgary,Alberta,,,
+C0340,64.0,Montreal,Quebec,Male,Medium,Manufacturing
+C0341,54.0,Regina,Saskatchewan,Female,Medium,Finance
+C0342,60.0,Victoria,British Columbia,Male,Medium,Healthcare
+C0343,33.0,Saskatoon,Saskatchewan,Male,Small,Technology
+C0344,,Kitchener,Ontario,,,
+C0345,,Winnipeg,Manitoba,,,
+C0346,,Saskatoon,Saskatchewan,,,
+C0347,,Montreal,Quebec,,,
+C0348,,Calgary,Alberta,,,
+C0349,32.0,Fredericton,New Brunswick,Female,Large,Technology
+C0350,60.0,Fredericton,New Brunswick,Female,Small,Finance
+C0351,,Edmonton,Alberta,,,
+C0352,,Charlottetown,Prince Edward Island,,,
+C0353,46.0,Fredericton,New Brunswick,Male,Medium,Healthcare
+C0354,60.0,Vancouver,British Columbia,Female,Large,Technology
+C0355,45.0,Winnipeg,Manitoba,Male,Small,Manufacturing
+C0356,,Edmonton,Alberta,,,
+C0357,28.0,Hamilton,Ontario,Female,Small,Finance
+C0358,66.0,Regina,Saskatchewan,Male,Large,Finance
+C0359,44.0,Halifax,Nova Scotia,Female,Large,Technology
+C0360,41.0,Victoria,British Columbia,Female,Large,Manufacturing
+C0361,47.0,Hamilton,Ontario,Male,Small,Finance
+C0362,35.0,Regina,Saskatchewan,Male,Medium,Retail
+C0363,45.0,Edmonton,Alberta,Male,Small,Technology
+C0364,36.0,Kitchener,Ontario,Male,Small,Manufacturing
+C0365,,Ottawa,Ontario,,,
+C0366,37.0,Saskatoon,Saskatchewan,Female,Small,Technology
+C0367,,Yellowknife,Northwest Territories,,,
+C0368,,Kitchener,Ontario,,,
+C0369,56.0,Calgary,Alberta,Male,Medium,Finance
+C0370,,Ottawa,Ontario,,,
+C0371,52.0,Montreal,Quebec,Male,Large,Technology
+C0372,,Whitehorse,Yukon,,,
+C0373,,Charlottetown,Prince Edward Island,,,
+C0374,29.0,Halifax,Nova Scotia,Male,Small,Healthcare
+C0375,46.0,Fredericton,New Brunswick,Male,Large,Technology
+C0376,49.0,Edmonton,Alberta,Female,Small,Technology
+C0377,,Calgary,Alberta,,,
+C0378,61.0,Halifax,Nova Scotia,Male,Small,Retail
+C0379,39.0,Ottawa,Ontario,Male,Medium,Retail
+C0380,,Victoria,British Columbia,,,
+C0381,55.0,Toronto,Ontario,Male,Small,Retail
+C0382,48.0,Fredericton,New Brunswick,Male,Large,Manufacturing
+C0383,27.0,Ottawa,Ontario,Female,Medium,Finance
+C0384,,Quebec City,Quebec,,,
+C0385,27.0,Saskatoon,Saskatchewan,Female,Large,Finance
+C0386,43.0,Halifax,Nova Scotia,Male,Small,Healthcare
+C0387,,Montreal,Quebec,,,
+C0388,30.0,Toronto,Ontario,Female,Small,Manufacturing
+C0389,,St. John's,Newfoundland and Labrador,,,
+C0390,38.0,Winnipeg,Manitoba,Male,Large,Retail
+C0391,,Regina,Saskatchewan,,,
+C0392,49.0,Regina,Saskatchewan,Female,Small,Retail
+C0393,,Toronto,Ontario,,,
+C0394,,Charlottetown,Prince Edward Island,,,
+C0395,,Montreal,Quebec,,,
+C0396,51.0,Halifax,Nova Scotia,Male,Medium,Finance
+C0397,63.0,St. John's,Newfoundland and Labrador,Female,Small,Healthcare
+C0398,64.0,Montreal,Quebec,Male,Medium,Finance
+C0399,,Calgary,Alberta,,,
+C0400,38.0,Montreal,Quebec,Female,Large,Retail
+C0401,55.0,Winnipeg,Manitoba,Female,Small,Finance
+C0402,,Montreal,Quebec,,,
+C0403,35.0,Winnipeg,Manitoba,Female,Medium,Retail
+C0404,58.0,Vancouver,British Columbia,Male,Medium,Healthcare
+C0405,63.0,Whitehorse,Yukon,Male,Small,Manufacturing
+C0406,40.0,Hamilton,Ontario,Female,Large,Healthcare
+C0407,,Yellowknife,Northwest Territories,,,
+C0408,67.0,London,Ontario,Female,Large,Technology
+C0409,51.0,Calgary,Alberta,Female,Medium,Finance
+C0410,28.0,Vancouver,British Columbia,Female,Medium,Technology
+C0411,57.0,Hamilton,Ontario,Female,Medium,Finance
+C0412,42.0,Halifax,Nova Scotia,Female,Medium,Manufacturing
+C0413,66.0,Calgary,Alberta,Male,Large,Retail
+C0414,67.0,Ottawa,Ontario,Male,Small,Manufacturing
+C0415,38.0,Vancouver,British Columbia,Male,Small,Manufacturing
+C0416,42.0,Yellowknife,Northwest Territories,Female,Small,Technology
+C0417,,St. John's,Newfoundland and Labrador,,,
+C0418,,London,Ontario,,,
+C0419,,Kitchener,Ontario,,,
+C0420,46.0,London,Ontario,Female,Medium,Finance
+C0421,58.0,Toronto,Ontario,Male,Large,Retail
+C0422,62.0,Victoria,British Columbia,Male,Small,Finance
+C0423,64.0,Ottawa,Ontario,Male,Small,Healthcare
+C0424,41.0,Halifax,Nova Scotia,Male,Large,Manufacturing
+C0425,43.0,Fredericton,New Brunswick,Male,Large,Retail
+C0426,,Winnipeg,Manitoba,,,
+C0427,45.0,London,Ontario,Female,Small,Finance
+C0428,,London,Ontario,,,
+C0429,37.0,Calgary,Alberta,Male,Small,Finance
+C0430,40.0,Calgary,Alberta,Female,Small,Retail
+C0431,,London,Ontario,,,
+C0432,41.0,St. John's,Newfoundland and Labrador,Male,Medium,Finance
+C0433,55.0,Saskatoon,Saskatchewan,Male,Large,Retail
+C0434,,Calgary,Alberta,,,
+C0435,,Edmonton,Alberta,,,
+C0436,54.0,Regina,Saskatchewan,Female,Medium,Finance
+C0437,,Halifax,Nova Scotia,,,
+C0438,50.0,St. John's,Newfoundland and Labrador,Female,Small,Technology
+C0439,,Winnipeg,Manitoba,,,
+C0440,,Edmonton,Alberta,,,
+C0441,,Saskatoon,Saskatchewan,,,
+C0442,44.0,Vancouver,British Columbia,Female,Medium,Finance
+C0443,56.0,Quebec City,Quebec,Male,Large,Retail
+C0444,40.0,Hamilton,Ontario,Female,Medium,Finance
+C0445,35.0,Ottawa,Ontario,Male,Large,Retail
+C0446,,Calgary,Alberta,,,
+C0447,,St. John's,Newfoundland and Labrador,,,
+C0448,,London,Ontario,,,
+C0449,45.0,St. John's,Newfoundland and Labrador,Male,Medium,Finance
+C0450,58.0,Quebec City,Quebec,Male,Large,Healthcare
+C0451,,London,Ontario,,,
+C0452,27.0,Toronto,Ontario,Female,Large,Technology
+C0453,65.0,Halifax,Nova Scotia,Female,Large,Technology
+C0454,25.0,Halifax,Nova Scotia,Female,Large,Finance
+C0455,42.0,St. John's,Newfoundland and Labrador,Female,Large,Technology
+C0456,37.0,Kitchener,Ontario,Male,Small,Finance
+C0457,61.0,Victoria,British Columbia,Female,Large,Healthcare
+C0458,48.0,Ottawa,Ontario,Male,Large,Retail
+C0459,44.0,Yellowknife,Northwest Territories,Male,Large,Finance
+C0460,64.0,Regina,Saskatchewan,Female,Medium,Healthcare
+C0461,63.0,Edmonton,Alberta,Male,Small,Finance
+C0462,59.0,Regina,Saskatchewan,Female,Small,Manufacturing
+C0463,25.0,Yellowknife,Northwest Territories,Female,Small,Finance
+C0464,25.0,Fredericton,New Brunswick,Male,Large,Healthcare
+C0465,50.0,Charlottetown,Prince Edward Island,Male,Large,Technology
+C0466,57.0,Ottawa,Ontario,Male,Small,Finance
+C0467,,London,Ontario,,,
+C0468,,Whitehorse,Yukon,,,
+C0469,51.0,Ottawa,Ontario,Male,Medium,Retail
+C0470,47.0,Edmonton,Alberta,Male,Small,Manufacturing
+C0471,,Calgary,Alberta,,,
+C0472,,Hamilton,Ontario,,,
+C0473,39.0,Kitchener,Ontario,Male,Large,Finance
+C0474,33.0,Whitehorse,Yukon,Male,Medium,Manufacturing
+C0475,52.0,Edmonton,Alberta,Female,Small,Technology
+C0476,38.0,Winnipeg,Manitoba,Female,Medium,Retail
+C0477,,Charlottetown,Prince Edward Island,,,
+C0478,35.0,Whitehorse,Yukon,Male,Small,Healthcare
+C0479,54.0,Victoria,British Columbia,Male,Small,Finance
+C0480,45.0,Halifax,Nova Scotia,Male,Large,Retail
+C0481,,Ottawa,Ontario,,,
+C0482,,Yellowknife,Northwest Territories,,,
+C0483,61.0,Fredericton,New Brunswick,Female,Medium,Manufacturing
+C0484,,Saskatoon,Saskatchewan,,,
+C0485,32.0,Hamilton,Ontario,Male,Large,Finance
+C0486,,Regina,Saskatchewan,,,
+C0487,,Yellowknife,Northwest Territories,,,
+C0488,48.0,Ottawa,Ontario,Female,Medium,Finance
+C0489,25.0,Quebec City,Quebec,Male,Small,Retail
+C0490,51.0,Victoria,British Columbia,Female,Large,Healthcare
+C0491,,London,Ontario,,,
+C0492,55.0,Kitchener,Ontario,Male,Medium,Manufacturing
+C0493,59.0,St. John's,Newfoundland and Labrador,Male,Large,Healthcare
+C0494,25.0,Victoria,British Columbia,Female,Large,Manufacturing
+C0495,65.0,Fredericton,New Brunswick,Female,Small,Healthcare
+C0496,34.0,Ottawa,Ontario,Male,Small,Finance
+C0497,57.0,Winnipeg,Manitoba,Male,Medium,Finance
+C0498,,Hamilton,Ontario,,,
+C0499,,Victoria,British Columbia,,,
+C0500,,Kitchener,Ontario,,,
+C0501,,Winnipeg,Manitoba,,,
+C0502,59.0,Winnipeg,Manitoba,Male,Medium,Technology
+C0503,37.0,St. John's,Newfoundland and Labrador,Female,Small,Technology
+C0504,,Toronto,Ontario,,,
+C0505,,Saskatoon,Saskatchewan,,,
+C0506,49.0,Victoria,British Columbia,Male,Large,Healthcare
+C0507,,Calgary,Alberta,,,
+C0508,,Hamilton,Ontario,,,
+C0509,54.0,Victoria,British Columbia,Female,Large,Manufacturing
+C0510,60.0,Charlottetown,Prince Edward Island,Female,Medium,Retail
+C0511,,Vancouver,British Columbia,,,
+C0512,50.0,Saskatoon,Saskatchewan,Female,Small,Healthcare
+C0513,,Toronto,Ontario,,,
+C0514,,Vancouver,British Columbia,,,
+C0515,35.0,Vancouver,British Columbia,Female,Small,Retail
+C0516,,Charlottetown,Prince Edward Island,,,
+C0517,,Yellowknife,Northwest Territories,,,
+C0518,,Kitchener,Ontario,,,
+C0519,37.0,Winnipeg,Manitoba,Female,Medium,Manufacturing
+C0520,54.0,Saskatoon,Saskatchewan,Female,Medium,Retail
+C0521,34.0,Ottawa,Ontario,Male,Small,Finance
+C0522,,Victoria,British Columbia,,,
+C0523,33.0,Calgary,Alberta,Male,Medium,Finance
+C0524,,Saskatoon,Saskatchewan,,,
+C0525,49.0,Charlottetown,Prince Edward Island,Male,Small,Technology
+C0526,,St. John's,Newfoundland and Labrador,,,
+C0527,,Hamilton,Ontario,,,
+C0528,26.0,London,Ontario,Female,Small,Manufacturing
+C0529,45.0,Calgary,Alberta,Male,Large,Healthcare
+C0530,,Fredericton,New Brunswick,,,
+C0531,67.0,Saskatoon,Saskatchewan,Male,Large,Retail
+C0532,32.0,London,Ontario,Female,Small,Technology
+C0533,,Toronto,Ontario,,,
+C0534,,Edmonton,Alberta,,,
+C0535,64.0,London,Ontario,Male,Medium,Retail
+C0536,29.0,Charlottetown,Prince Edward Island,Female,Large,Retail
+C0537,46.0,Edmonton,Alberta,Male,Medium,Finance
+C0538,41.0,Ottawa,Ontario,Female,Large,Finance
+C0539,38.0,Quebec City,Quebec,Male,Large,Finance
+C0540,,Montreal,Quebec,,,
+C0541,33.0,Halifax,Nova Scotia,Male,Small,Manufacturing
+C0542,51.0,Fredericton,New Brunswick,Female,Small,Retail
+C0543,,Saskatoon,Saskatchewan,,,
+C0544,,Regina,Saskatchewan,,,
+C0545,,Winnipeg,Manitoba,,,
+C0546,,St. John's,Newfoundland and Labrador,,,
+C0547,,Ottawa,Ontario,,,
+C0548,,Saskatoon,Saskatchewan,,,
+C0549,51.0,Halifax,Nova Scotia,Female,Medium,Finance
+C0550,,Kitchener,Ontario,,,
+C0551,69.0,Regina,Saskatchewan,Female,Large,Technology
+C0552,55.0,Hamilton,Ontario,Female,Small,Manufacturing
+C0553,45.0,Toronto,Ontario,Female,Small,Healthcare
+C0554,,St. John's,Newfoundland and Labrador,,,
+C0555,,Regina,Saskatchewan,,,
+C0556,,Halifax,Nova Scotia,,,
+C0557,37.0,Vancouver,British Columbia,Male,Large,Retail
+C0558,,Winnipeg,Manitoba,,,
+C0559,67.0,St. John's,Newfoundland and Labrador,Female,Large,Retail
+C0560,38.0,Toronto,Ontario,Female,Large,Retail
+C0561,35.0,Victoria,British Columbia,Male,Large,Manufacturing
+C0562,33.0,Edmonton,Alberta,Female,Large,Finance
+C0563,,Yellowknife,Northwest Territories,,,
+C0564,,Victoria,British Columbia,,,
+C0565,62.0,Charlottetown,Prince Edward Island,Female,Medium,Healthcare
+C0566,40.0,St. John's,Newfoundland and Labrador,Male,Large,Technology
+C0567,,Winnipeg,Manitoba,,,
+C0568,41.0,Montreal,Quebec,Male,Large,Healthcare
+C0569,60.0,Charlottetown,Prince Edward Island,Female,Large,Retail
+C0570,33.0,Edmonton,Alberta,Female,Medium,Manufacturing
+C0571,,Victoria,British Columbia,,,
+C0572,57.0,Montreal,Quebec,Male,Medium,Retail
+C0573,44.0,Saskatoon,Saskatchewan,Male,Small,Finance
+C0574,65.0,Yellowknife,Northwest Territories,Female,Small,Retail
+C0575,,Regina,Saskatchewan,,,
+C0576,32.0,Yellowknife,Northwest Territories,Male,Small,Retail
+C0577,27.0,Victoria,British Columbia,Male,Medium,Manufacturing
+C0578,,London,Ontario,,,
+C0579,39.0,Saskatoon,Saskatchewan,Female,Medium,Healthcare
+C0580,63.0,Yellowknife,Northwest Territories,Female,Medium,Retail
+C0581,,Winnipeg,Manitoba,,,
+C0582,,Charlottetown,Prince Edward Island,,,
+C0583,55.0,Quebec City,Quebec,Male,Large,Finance
+C0584,33.0,Charlottetown,Prince Edward Island,Female,Medium,Manufacturing
+C0585,65.0,Vancouver,British Columbia,Male,Medium,Technology
+C0586,46.0,Victoria,British Columbia,Female,Small,Retail
+C0587,44.0,Regina,Saskatchewan,Male,Large,Technology
+C0588,66.0,Quebec City,Quebec,Male,Large,Technology
+C0589,43.0,St. John's,Newfoundland and Labrador,Male,Medium,Manufacturing
+C0590,,Edmonton,Alberta,,,
+C0591,,Hamilton,Ontario,,,
+C0592,,Halifax,Nova Scotia,,,
+C0593,44.0,Victoria,British Columbia,Female,Small,Retail
+C0594,,Vancouver,British Columbia,,,
+C0595,,Toronto,Ontario,,,
+C0596,67.0,Ottawa,Ontario,Female,Large,Technology
+C0597,,Victoria,British Columbia,,,
+C0598,26.0,Whitehorse,Yukon,Male,Medium,Manufacturing
+C0599,40.0,Vancouver,British Columbia,Female,Medium,Healthcare
+C0600,58.0,Charlottetown,Prince Edward Island,Female,Small,Technology
+C0601,42.0,Quebec City,Quebec,Male,Large,Finance
+C0602,69.0,Edmonton,Alberta,Female,Small,Finance
+C0603,37.0,Hamilton,Ontario,Male,Large,Technology
+C0604,28.0,Whitehorse,Yukon,Male,Large,Finance
+C0605,,Charlottetown,Prince Edward Island,,,
+C0606,,Halifax,Nova Scotia,,,
+C0607,54.0,Saskatoon,Saskatchewan,Female,Large,Healthcare
+C0608,25.0,Montreal,Quebec,Female,Small,Manufacturing
+C0609,64.0,Edmonton,Alberta,Male,Medium,Healthcare
+C0610,38.0,Regina,Saskatchewan,Male,Large,Technology
+C0611,63.0,Toronto,Ontario,Male,Large,Manufacturing
+C0612,52.0,Winnipeg,Manitoba,Female,Small,Finance
+C0613,47.0,Whitehorse,Yukon,Male,Medium,Technology
+C0614,36.0,Victoria,British Columbia,Female,Large,Retail
+C0615,67.0,Vancouver,British Columbia,Female,Small,Manufacturing
+C0616,,Halifax,Nova Scotia,,,
+C0617,37.0,Toronto,Ontario,Male,Large,Retail
+C0618,34.0,Vancouver,British Columbia,Female,Large,Healthcare
+C0619,50.0,Halifax,Nova Scotia,Male,Small,Healthcare
+C0620,67.0,Montreal,Quebec,Male,Large,Healthcare
+C0621,25.0,Quebec City,Quebec,Female,Small,Retail
+C0622,,Vancouver,British Columbia,,,
+C0623,,Saskatoon,Saskatchewan,,,
+C0624,,Regina,Saskatchewan,,,
+C0625,43.0,Fredericton,New Brunswick,Male,Large,Retail
+C0626,46.0,Charlottetown,Prince Edward Island,Male,Large,Retail
+C0627,48.0,Charlottetown,Prince Edward Island,Female,Medium,Healthcare
+C0628,41.0,Saskatoon,Saskatchewan,Female,Medium,Finance
+C0629,63.0,Calgary,Alberta,Female,Medium,Healthcare
+C0630,37.0,Whitehorse,Yukon,Female,Large,Technology
+C0631,60.0,Ottawa,Ontario,Female,Large,Healthcare
+C0632,,Fredericton,New Brunswick,,,
+C0633,42.0,Halifax,Nova Scotia,Male,Small,Retail
+C0634,,Calgary,Alberta,,,
+C0635,68.0,St. John's,Newfoundland and Labrador,Male,Large,Technology
+C0636,47.0,St. John's,Newfoundland and Labrador,Male,Medium,Finance
+C0637,34.0,Calgary,Alberta,Male,Medium,Healthcare
+C0638,53.0,Calgary,Alberta,Male,Large,Manufacturing
+C0639,,Montreal,Quebec,,,
+C0640,,Halifax,Nova Scotia,,,
+C0641,55.0,Regina,Saskatchewan,Male,Medium,Finance
+C0642,33.0,Ottawa,Ontario,Male,Small,Technology
+C0643,,Yellowknife,Northwest Territories,,,
+C0644,64.0,Quebec City,Quebec,Male,Small,Healthcare
+C0645,,Charlottetown,Prince Edward Island,,,
+C0646,57.0,London,Ontario,Male,Medium,Retail
+C0647,67.0,Edmonton,Alberta,Female,Medium,Retail
+C0648,,St. John's,Newfoundland and Labrador,,,
+C0649,,Charlottetown,Prince Edward Island,,,
+C0650,57.0,Saskatoon,Saskatchewan,Female,Small,Healthcare
+C0651,57.0,Kitchener,Ontario,Male,Medium,Technology
+C0652,,Yellowknife,Northwest Territories,,,
+C0653,,St. John's,Newfoundland and Labrador,,,
+C0654,65.0,Fredericton,New Brunswick,Female,Medium,Healthcare
+C0655,45.0,Saskatoon,Saskatchewan,Male,Medium,Finance
+C0656,25.0,Toronto,Ontario,Female,Small,Healthcare
+C0657,,Calgary,Alberta,,,
+C0658,,Vancouver,British Columbia,,,
+C0659,64.0,Saskatoon,Saskatchewan,Male,Small,Retail
+C0660,62.0,Saskatoon,Saskatchewan,Female,Small,Manufacturing
+C0661,53.0,Vancouver,British Columbia,Male,Large,Finance
+C0662,,Victoria,British Columbia,,,
+C0663,64.0,Regina,Saskatchewan,Male,Large,Manufacturing
+C0664,63.0,Ottawa,Ontario,Female,Medium,Technology
+C0665,,Winnipeg,Manitoba,,,
+C0666,36.0,Victoria,British Columbia,Male,Medium,Technology
+C0667,,Edmonton,Alberta,,,
+C0668,69.0,Kitchener,Ontario,Male,Small,Retail
+C0669,56.0,Calgary,Alberta,Female,Small,Healthcare
+C0670,,Saskatoon,Saskatchewan,,,
+C0671,,Regina,Saskatchewan,,,
+C0672,44.0,Kitchener,Ontario,Male,Medium,Manufacturing
+C0673,47.0,Regina,Saskatchewan,Male,Large,Finance
+C0674,,Victoria,British Columbia,,,
+C0675,28.0,Toronto,Ontario,Female,Medium,Manufacturing
+C0676,50.0,Yellowknife,Northwest Territories,Female,Small,Healthcare
+C0677,48.0,Kitchener,Ontario,Female,Medium,Finance
+C0678,43.0,Hamilton,Ontario,Male,Medium,Finance
+C0679,64.0,Ottawa,Ontario,Female,Large,Healthcare
+C0680,41.0,Regina,Saskatchewan,Male,Medium,Retail
+C0681,25.0,Vancouver,British Columbia,Male,Medium,Technology
+C0682,31.0,Vancouver,British Columbia,Male,Small,Technology
+C0683,68.0,Kitchener,Ontario,Female,Large,Technology
+C0684,,Vancouver,British Columbia,,,
+C0685,,Ottawa,Ontario,,,
+C0686,39.0,Victoria,British Columbia,Male,Medium,Manufacturing
+C0687,,Whitehorse,Yukon,,,
+C0688,,Toronto,Ontario,,,
+C0689,32.0,Quebec City,Quebec,Female,Large,Technology
+C0690,39.0,Montreal,Quebec,Female,Medium,Retail
+C0691,,Edmonton,Alberta,,,
+C0692,40.0,St. John's,Newfoundland and Labrador,Male,Large,Finance
+C0693,,Vancouver,British Columbia,,,
+C0694,25.0,Kitchener,Ontario,Male,Large,Manufacturing
+C0695,66.0,Regina,Saskatchewan,Female,Large,Finance
+C0696,31.0,Whitehorse,Yukon,Female,Large,Retail
+C0697,64.0,Edmonton,Alberta,Male,Medium,Healthcare
+C0698,43.0,Edmonton,Alberta,Female,Large,Healthcare
+C0699,54.0,Whitehorse,Yukon,Female,Large,Manufacturing
+C0700,,Halifax,Nova Scotia,,,
+C0701,,Hamilton,Ontario,,,
+C0702,,Whitehorse,Yukon,,,
+C0703,29.0,Halifax,Nova Scotia,Male,Large,Retail
+C0704,54.0,Calgary,Alberta,Male,Medium,Technology
+C0705,53.0,Calgary,Alberta,Male,Medium,Healthcare
+C0706,67.0,Regina,Saskatchewan,Female,Medium,Finance
+C0707,,Quebec City,Quebec,,,
+C0708,53.0,Winnipeg,Manitoba,Female,Medium,Finance
+C0709,,Calgary,Alberta,,,
+C0710,52.0,Saskatoon,Saskatchewan,Male,Small,Technology
+C0711,,Charlottetown,Prince Edward Island,,,
+C0712,,Fredericton,New Brunswick,,,
+C0713,,Edmonton,Alberta,,,
+C0714,,Regina,Saskatchewan,,,
+C0715,,Calgary,Alberta,,,
+C0716,,Halifax,Nova Scotia,,,
+C0717,48.0,Ottawa,Ontario,Female,Large,Finance
+C0718,33.0,Kitchener,Ontario,Female,Large,Technology
+C0719,29.0,Charlottetown,Prince Edward Island,Male,Large,Healthcare
+C0720,32.0,Montreal,Quebec,Male,Large,Technology
+C0721,58.0,Calgary,Alberta,Female,Large,Retail
+C0722,61.0,Montreal,Quebec,Male,Small,Technology
+C0723,42.0,Yellowknife,Northwest Territories,Female,Large,Retail
+C0724,,Halifax,Nova Scotia,,,
+C0725,35.0,St. John's,Newfoundland and Labrador,Male,Medium,Retail
+C0726,36.0,London,Ontario,Female,Medium,Healthcare
+C0727,46.0,London,Ontario,Male,Small,Finance
+C0728,58.0,Victoria,British Columbia,Male,Medium,Healthcare
+C0729,,Calgary,Alberta,,,
+C0730,,Charlottetown,Prince Edward Island,,,
+C0731,63.0,Montreal,Quebec,Female,Small,Technology
+C0732,,London,Ontario,,,
+C0733,33.0,Whitehorse,Yukon,Male,Large,Technology
+C0734,69.0,Winnipeg,Manitoba,Female,Large,Technology
+C0735,47.0,Whitehorse,Yukon,Male,Large,Finance
+C0736,67.0,St. John's,Newfoundland and Labrador,Male,Large,Finance
+C0737,,Halifax,Nova Scotia,,,
+C0738,,London,Ontario,,,
+C0739,,Regina,Saskatchewan,,,
+C0740,41.0,Yellowknife,Northwest Territories,Male,Small,Healthcare
+C0741,51.0,Edmonton,Alberta,Female,Large,Technology
+C0742,58.0,Whitehorse,Yukon,Female,Medium,Retail
+C0743,43.0,Yellowknife,Northwest Territories,Female,Medium,Technology
+C0744,42.0,St. John's,Newfoundland and Labrador,Male,Small,Retail
+C0745,40.0,Whitehorse,Yukon,Female,Large,Healthcare
+C0746,40.0,Regina,Saskatchewan,Female,Large,Technology
+C0747,,Halifax,Nova Scotia,,,
+C0748,,Montreal,Quebec,,,
+C0749,30.0,Charlottetown,Prince Edward Island,Male,Medium,Manufacturing
+C0750,42.0,Regina,Saskatchewan,Male,Large,Retail
+C0751,,Edmonton,Alberta,,,
+C0752,38.0,Saskatoon,Saskatchewan,Male,Large,Retail
+C0753,59.0,Kitchener,Ontario,Female,Medium,Finance
+C0754,47.0,Ottawa,Ontario,Male,Medium,Manufacturing
+C0755,48.0,Victoria,British Columbia,Female,Medium,Healthcare
+C0756,,St. John's,Newfoundland and Labrador,,,
+C0757,,Fredericton,New Brunswick,,,
+C0758,62.0,St. John's,Newfoundland and Labrador,Female,Small,Manufacturing
+C0759,52.0,Saskatoon,Saskatchewan,Male,Small,Retail
+C0760,69.0,Saskatoon,Saskatchewan,Female,Large,Technology
+C0761,,Whitehorse,Yukon,,,
+C0762,38.0,Winnipeg,Manitoba,Male,Small,Healthcare
+C0763,52.0,Saskatoon,Saskatchewan,Female,Medium,Retail
+C0764,47.0,Yellowknife,Northwest Territories,Male,Large,Finance
+C0765,59.0,Ottawa,Ontario,Male,Medium,Technology
+C0766,,Charlottetown,Prince Edward Island,,,
+C0767,69.0,Saskatoon,Saskatchewan,Male,Large,Technology
+C0768,50.0,Hamilton,Ontario,Male,Small,Healthcare
+C0769,64.0,Ottawa,Ontario,Female,Large,Technology
+C0770,,Calgary,Alberta,,,
+C0771,33.0,Charlottetown,Prince Edward Island,Female,Small,Finance
+C0772,,Toronto,Ontario,,,
+C0773,,St. John's,Newfoundland and Labrador,,,
+C0774,,Hamilton,Ontario,,,
+C0775,,Charlottetown,Prince Edward Island,,,
+C0776,49.0,Calgary,Alberta,Female,Small,Manufacturing
+C0777,47.0,Calgary,Alberta,Female,Medium,Retail
+C0778,42.0,Halifax,Nova Scotia,Female,Medium,Manufacturing
+C0779,,Calgary,Alberta,,,
+C0780,,Charlottetown,Prince Edward Island,,,
+C0781,,London,Ontario,,,
+C0782,32.0,St. John's,Newfoundland and Labrador,Male,Medium,Finance
+C0783,38.0,Regina,Saskatchewan,Female,Large,Finance
+C0784,60.0,Montreal,Quebec,Female,Small,Manufacturing
+C0785,,Saskatoon,Saskatchewan,,,
+C0786,67.0,Whitehorse,Yukon,Female,Large,Retail
+C0787,,Montreal,Quebec,,,
+C0788,44.0,Charlottetown,Prince Edward Island,Male,Medium,Retail
+C0789,,Regina,Saskatchewan,,,
+C0790,53.0,Whitehorse,Yukon,Female,Small,Manufacturing
+C0791,32.0,Victoria,British Columbia,Male,Large,Healthcare
+C0792,,Saskatoon,Saskatchewan,,,
+C0793,,Vancouver,British Columbia,,,
+C0794,,Yellowknife,Northwest Territories,,,
+C0795,40.0,London,Ontario,Male,Medium,Finance
+C0796,59.0,Calgary,Alberta,Male,Medium,Healthcare
+C0797,57.0,Regina,Saskatchewan,Male,Medium,Manufacturing
+C0798,45.0,Fredericton,New Brunswick,Female,Small,Retail
+C0799,,Edmonton,Alberta,,,
+C0800,,Ottawa,Ontario,,,
+C0801,37.0,Winnipeg,Manitoba,Male,Medium,Finance
+C0802,64.0,Ottawa,Ontario,Female,Small,Manufacturing
+C0803,,Calgary,Alberta,,,
+C0804,,Halifax,Nova Scotia,,,
+C0805,,Montreal,Quebec,,,
+C0806,69.0,Toronto,Ontario,Male,Large,Technology
+C0807,,Winnipeg,Manitoba,,,
+C0808,65.0,Edmonton,Alberta,Male,Medium,Manufacturing
+C0809,49.0,Hamilton,Ontario,Male,Small,Retail
+C0810,29.0,Calgary,Alberta,Male,Small,Finance
+C0811,37.0,Charlottetown,Prince Edward Island,Male,Small,Retail
+C0812,,Regina,Saskatchewan,,,
+C0813,65.0,Winnipeg,Manitoba,Male,Medium,Manufacturing
+C0814,55.0,St. John's,Newfoundland and Labrador,Male,Medium,Retail
+C0815,50.0,Yellowknife,Northwest Territories,Male,Medium,Technology
+C0816,31.0,Hamilton,Ontario,Female,Large,Healthcare
+C0817,51.0,St. John's,Newfoundland and Labrador,Male,Large,Retail
+C0818,,Montreal,Quebec,,,
+C0819,,Saskatoon,Saskatchewan,,,
+C0820,54.0,Yellowknife,Northwest Territories,Male,Large,Manufacturing
+C0821,55.0,Ottawa,Ontario,Female,Small,Technology
+C0822,45.0,Edmonton,Alberta,Female,Small,Technology
+C0823,48.0,Calgary,Alberta,Male,Medium,Retail
+C0824,36.0,Whitehorse,Yukon,Male,Large,Technology
+C0825,,Kitchener,Ontario,,,
+C0826,,Saskatoon,Saskatchewan,,,
+C0827,56.0,Calgary,Alberta,Male,Small,Manufacturing
+C0828,47.0,Victoria,British Columbia,Male,Large,Retail
+C0829,,Quebec City,Quebec,,,
+C0830,47.0,Yellowknife,Northwest Territories,Male,Medium,Healthcare
+C0831,68.0,Quebec City,Quebec,Male,Small,Technology
+C0832,,Kitchener,Ontario,,,
+C0833,54.0,Halifax,Nova Scotia,Male,Medium,Finance
+C0834,,Calgary,Alberta,,,
+C0835,43.0,Quebec City,Quebec,Female,Large,Healthcare
+C0836,,Whitehorse,Yukon,,,
+C0837,26.0,Edmonton,Alberta,Female,Medium,Healthcare
+C0838,32.0,Halifax,Nova Scotia,Female,Medium,Retail
+C0839,34.0,Montreal,Quebec,Male,Small,Retail
+C0840,,Saskatoon,Saskatchewan,,,
+C0841,,Vancouver,British Columbia,,,
+C0842,26.0,Charlottetown,Prince Edward Island,Female,Small,Finance
+C0843,52.0,Montreal,Quebec,Male,Medium,Manufacturing
+C0844,,Calgary,Alberta,,,
+C0845,,Regina,Saskatchewan,,,
+C0846,,Victoria,British Columbia,,,
+C0847,28.0,Vancouver,British Columbia,Male,Medium,Retail
+C0848,49.0,Charlottetown,Prince Edward Island,Female,Small,Retail
+C0849,34.0,Toronto,Ontario,Male,Large,Retail
+C0850,66.0,Hamilton,Ontario,Female,Small,Healthcare
+C0851,45.0,Whitehorse,Yukon,Female,Medium,Technology
+C0852,45.0,Toronto,Ontario,Female,Small,Finance
+C0853,,Montreal,Quebec,,,
+C0854,28.0,Montreal,Quebec,Female,Medium,Manufacturing
+C0855,,Hamilton,Ontario,,,
+C0856,62.0,Winnipeg,Manitoba,Female,Medium,Retail
+C0857,,Regina,Saskatchewan,,,
+C0858,,Montreal,Quebec,,,
+C0859,36.0,Halifax,Nova Scotia,Male,Medium,Healthcare
+C0860,53.0,Ottawa,Ontario,Female,Small,Manufacturing
+C0861,,Edmonton,Alberta,,,
+C0862,39.0,Yellowknife,Northwest Territories,Female,Large,Manufacturing
+C0863,,St. John's,Newfoundland and Labrador,,,
+C0864,41.0,Charlottetown,Prince Edward Island,Female,Small,Finance
+C0865,,Regina,Saskatchewan,,,
+C0866,25.0,Whitehorse,Yukon,Male,Large,Technology
+C0867,38.0,Calgary,Alberta,Male,Large,Healthcare
+C0868,31.0,Ottawa,Ontario,Female,Small,Technology
+C0869,,Saskatoon,Saskatchewan,,,
+C0870,27.0,Winnipeg,Manitoba,Female,Small,Technology
+C0871,,Quebec City,Quebec,,,
+C0872,66.0,Calgary,Alberta,Female,Small,Manufacturing
+C0873,45.0,Ottawa,Ontario,Male,Medium,Manufacturing
+C0874,55.0,Whitehorse,Yukon,Female,Small,Finance
+C0875,59.0,London,Ontario,Female,Large,Retail
+C0876,,Victoria,British Columbia,,,
+C0877,46.0,London,Ontario,Female,Medium,Finance
+C0878,42.0,Vancouver,British Columbia,Male,Medium,Retail
+C0879,,London,Ontario,,,
+C0880,49.0,London,Ontario,Male,Large,Technology
+C0881,,Victoria,British Columbia,,,
+C0882,44.0,Yellowknife,Northwest Territories,Male,Small,Finance
+C0883,,Saskatoon,Saskatchewan,,,
+C0884,30.0,Hamilton,Ontario,Male,Large,Healthcare
+C0885,32.0,Kitchener,Ontario,Male,Small,Finance
+C0886,56.0,Fredericton,New Brunswick,Female,Medium,Retail
+C0887,,Quebec City,Quebec,,,
+C0888,27.0,St. John's,Newfoundland and Labrador,Male,Small,Retail
+C0889,28.0,Fredericton,New Brunswick,Female,Small,Healthcare
+C0890,,Edmonton,Alberta,,,
+C0891,,Kitchener,Ontario,,,
+C0892,,Saskatoon,Saskatchewan,,,
+C0893,49.0,Victoria,British Columbia,Female,Large,Manufacturing
+C0894,,St. John's,Newfoundland and Labrador,,,
+C0895,50.0,Ottawa,Ontario,Male,Large,Manufacturing
+C0896,66.0,Montreal,Quebec,Male,Small,Healthcare
+C0897,25.0,Saskatoon,Saskatchewan,Female,Large,Retail
+C0898,60.0,Montreal,Quebec,Female,Small,Healthcare
+C0899,,Hamilton,Ontario,,,
+C0900,58.0,Vancouver,British Columbia,Female,Small,Manufacturing
+C0901,62.0,Ottawa,Ontario,Female,Medium,Technology
+C0902,25.0,Saskatoon,Saskatchewan,Male,Large,Technology
+C0903,47.0,Regina,Saskatchewan,Female,Small,Technology
+C0904,,Regina,Saskatchewan,,,
+C0905,27.0,Regina,Saskatchewan,Male,Medium,Technology
+C0906,,Montreal,Quebec,,,
+C0907,,Whitehorse,Yukon,,,
+C0908,,Calgary,Alberta,,,
+C0909,34.0,Kitchener,Ontario,Male,Small,Manufacturing
+C0910,,Vancouver,British Columbia,,,
+C0911,56.0,Calgary,Alberta,Male,Large,Finance
+C0912,,Halifax,Nova Scotia,,,
+C0913,35.0,Vancouver,British Columbia,Male,Large,Healthcare
+C0914,27.0,Regina,Saskatchewan,Female,Large,Retail
+C0915,,Fredericton,New Brunswick,,,
+C0916,,Halifax,Nova Scotia,,,
+C0917,34.0,Hamilton,Ontario,Female,Medium,Finance
+C0918,42.0,Calgary,Alberta,Male,Large,Technology
+C0919,,Edmonton,Alberta,,,
+C0920,38.0,Montreal,Quebec,Male,Medium,Technology
+C0921,38.0,Montreal,Quebec,Male,Small,Retail
+C0922,34.0,Fredericton,New Brunswick,Male,Medium,Healthcare
+C0923,56.0,Regina,Saskatchewan,Male,Large,Healthcare
+C0924,27.0,London,Ontario,Male,Medium,Finance
+C0925,30.0,Vancouver,British Columbia,Female,Medium,Finance
+C0926,46.0,Yellowknife,Northwest Territories,Female,Medium,Retail
+C0927,68.0,Edmonton,Alberta,Female,Medium,Healthcare
+C0928,,Ottawa,Ontario,,,
+C0929,60.0,Fredericton,New Brunswick,Male,Large,Manufacturing
+C0930,,Regina,Saskatchewan,,,
+C0931,,Calgary,Alberta,,,
+C0932,28.0,Halifax,Nova Scotia,Male,Small,Retail
+C0933,,Victoria,British Columbia,,,
+C0934,62.0,Yellowknife,Northwest Territories,Male,Small,Finance
+C0935,,Saskatoon,Saskatchewan,,,
+C0936,31.0,London,Ontario,Male,Small,Healthcare
+C0937,29.0,London,Ontario,Male,Small,Manufacturing
+C0938,44.0,Charlottetown,Prince Edward Island,Female,Medium,Manufacturing
+C0939,43.0,Winnipeg,Manitoba,Male,Large,Manufacturing
+C0940,,Victoria,British Columbia,,,
+C0941,,Montreal,Quebec,,,
+C0942,45.0,Vancouver,British Columbia,Female,Medium,Manufacturing
+C0943,,Charlottetown,Prince Edward Island,,,
+C0944,64.0,Charlottetown,Prince Edward Island,Male,Medium,Finance
+C0945,,Whitehorse,Yukon,,,
+C0946,57.0,Quebec City,Quebec,Female,Small,Technology
+C0947,34.0,Calgary,Alberta,Female,Medium,Technology
+C0948,66.0,Charlottetown,Prince Edward Island,Female,Large,Manufacturing
+C0949,61.0,Quebec City,Quebec,Female,Medium,Technology
+C0950,,Vancouver,British Columbia,,,
+C0951,54.0,Yellowknife,Northwest Territories,Male,Small,Technology
+C0952,68.0,London,Ontario,Male,Small,Manufacturing
+C0953,38.0,Fredericton,New Brunswick,Female,Small,Technology
+C0954,,St. John's,Newfoundland and Labrador,,,
+C0955,,Calgary,Alberta,,,
+C0956,54.0,Yellowknife,Northwest Territories,Female,Medium,Retail
+C0957,,Halifax,Nova Scotia,,,
+C0958,66.0,Saskatoon,Saskatchewan,Male,Small,Technology
+C0959,,Kitchener,Ontario,,,
+C0960,30.0,Edmonton,Alberta,Female,Small,Finance
+C0961,,Vancouver,British Columbia,,,
+C0962,,Saskatoon,Saskatchewan,,,
+C0963,32.0,Regina,Saskatchewan,Female,Small,Manufacturing
+C0964,59.0,St. John's,Newfoundland and Labrador,Female,Large,Healthcare
+C0965,,Vancouver,British Columbia,,,
+C0966,,Fredericton,New Brunswick,,,
+C0967,,Hamilton,Ontario,,,
+C0968,28.0,Ottawa,Ontario,Female,Small,Manufacturing
+C0969,50.0,Fredericton,New Brunswick,Female,Medium,Healthcare
+C0970,42.0,Charlottetown,Prince Edward Island,Female,Medium,Technology
+C0971,68.0,Quebec City,Quebec,Male,Large,Manufacturing
+C0972,34.0,St. John's,Newfoundland and Labrador,Male,Small,Retail
+C0973,61.0,Victoria,British Columbia,Male,Large,Manufacturing
+C0974,,Edmonton,Alberta,,,
+C0975,39.0,Quebec City,Quebec,Female,Small,Healthcare
+C0976,47.0,London,Ontario,Female,Medium,Manufacturing
+C0977,46.0,Calgary,Alberta,Male,Medium,Retail
+C0978,26.0,Saskatoon,Saskatchewan,Male,Small,Finance
+C0979,64.0,Regina,Saskatchewan,Male,Large,Technology
+C0980,62.0,Kitchener,Ontario,Female,Small,Finance
+C0981,,Quebec City,Quebec,,,
+C0982,64.0,St. John's,Newfoundland and Labrador,Male,Small,Manufacturing
+C0983,,Toronto,Ontario,,,
+C0984,46.0,Charlottetown,Prince Edward Island,Male,Large,Healthcare
+C0985,52.0,Toronto,Ontario,Female,Medium,Retail
+C0986,50.0,Fredericton,New Brunswick,Male,Large,Technology
+C0987,64.0,Ottawa,Ontario,Male,Medium,Retail
+C0988,68.0,Charlottetown,Prince Edward Island,Male,Medium,Healthcare
+C0989,,St. John's,Newfoundland and Labrador,,,
+C0990,62.0,Hamilton,Ontario,Male,Medium,Healthcare
+C0991,45.0,Kitchener,Ontario,Female,Large,Retail
+C0992,32.0,London,Ontario,Male,Medium,Manufacturing
+C0993,56.0,Kitchener,Ontario,Male,Medium,Finance
+C0994,30.0,Toronto,Ontario,Female,Small,Technology
+C0995,,Regina,Saskatchewan,,,
+C0996,36.0,Montreal,Quebec,Female,Small,Manufacturing
+C0997,,Charlottetown,Prince Edward Island,,,
+C0998,57.0,Toronto,Ontario,Male,Small,Finance
+C0999,,Kitchener,Ontario,,,
+C1000,,Whitehorse,Yukon,,,
